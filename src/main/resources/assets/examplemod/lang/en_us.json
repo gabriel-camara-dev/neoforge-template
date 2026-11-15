@@ -1,0 +1,26 @@
+{
+  "item.examplemod.example_item": "Example Item",
+  "item.examplemod.example_tool": "Example Tool",
+  "item.examplemod.example_tool.match": "%s is detectable!",
+  "item.examplemod.example_tool.no_match": "%s is not detectable.",
+  "tooltip.examplemod.example_tool": "Right-click a block to check it",
+  "tooltip.examplemod.example_tool.last_position": "Last position: %s, %s, %s",
+
+  "block.examplemod.example_block": "Example Block",
+  "block.examplemod.example_counter_block": "Example Counter Block",
+  "block.examplemod.example_counter_block.count": "Counter: %s",
+
+  "effect.examplemod.example_effect": "Example Effect",
+
+  "creativetab.examplemod.example_tab": "Example Mod",
+
+  "key.examplemod.example": "Example Key",
+  "message.examplemod.key_pressed": "You pressed the example key!",
+  "message.examplemod.welcome": "Welcome! Example Mod is loaded.",
+
+  "examplemod.configuration.title": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
+  "examplemod.configuration.logOnSetup": "Log on setup",
+  "examplemod.configuration.magicNumber": "Magic Number"
+}

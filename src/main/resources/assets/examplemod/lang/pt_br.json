@@ -1,0 +1,26 @@
+{
+  "item.examplemod.example_item": "Item de Exemplo",
+  "item.examplemod.example_tool": "Ferramenta de Exemplo",
+  "item.examplemod.example_tool.match": "%s é detectável!",
+  "item.examplemod.example_tool.no_match": "%s não é detectável.",
+  "tooltip.examplemod.example_tool": "Clique com o botão direito num bloco para verificar",
+  "tooltip.examplemod.example_tool.last_position": "Última posição: %s, %s, %s",
+
+  "block.examplemod.example_block": "Bloco de Exemplo",
+  "block.examplemod.example_counter_block": "Bloco Contador de Exemplo",
+  "block.examplemod.example_counter_block.count": "Contador: %s",
+
+  "effect.examplemod.example_effect": "Efeito de Exemplo",
+
+  "creativetab.examplemod.example_tab": "Example Mod",
+
+  "key.examplemod.example": "Tecla de Exemplo",
+  "message.examplemod.key_pressed": "Você apertou a tecla de exemplo!",
+  "message.examplemod.welcome": "Bem-vindo! O Example Mod está carregado.",
+
+  "examplemod.configuration.title": "Configurações do Example Mod",
+  "examplemod.configuration.section.examplemod.common.toml": "Configurações do Example Mod",
+  "examplemod.configuration.section.examplemod.common.toml.title": "Configurações do Example Mod",
+  "examplemod.configuration.logOnSetup": "Logar no setup",
+  "examplemod.configuration.magicNumber": "Número mágico"
+}
